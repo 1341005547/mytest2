@@ -1,3 +1,4 @@
 user1 added...
 user1 modified2 此处演示冲突
-user2 modified3 接下来用户1不进行拖拉直接退解决冲突
+行拖拉直接退解决冲突
+user1没有拉取直接提交放生冲突。user2需要解决冲突
